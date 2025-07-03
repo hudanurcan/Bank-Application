@@ -4,13 +4,18 @@ This project is an internet banking application that allows users to perform ban
 Users can apply for an account, log in to view and update their account information, perform money transfers, and manage their balances. 
 Additionally, users can perform deposit and withdrawal transactions through the Online ATM feature.
 The application also includes security measures such as data encryption and KVKK (Personal Data Protection Law) consent to ensure the protection of personal data in a secure environment.
+
 Customer number, IBAN, and card number are automatically saved to the database.
+
 The current time, along with the exchange rates for USD and EUR, is retrieved via an API and displayed on the homepage.
 
 ## Technologies
 Backend: ASP.NET Core (Web API)
+
 Frontend: Angular
+
 Database: MS SQL Server
+
 Hashing: Passwords are encrypted using the bcrypt algorithm.
 
 
