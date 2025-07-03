@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\context\\bankappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\context\\bankappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\bankapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\bankapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C88E21D-840F-497E-BA88-7D165253856E}|bankApp.WebUI\\bankApp.WebUI.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.webui\\bankapp.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C88E21D-840F-497E-BA88-7D165253856E}|bankApp.WebUI\\bankApp.WebUI.csproj|solutionrelative:bankapp.webui\\bankapp.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.entity\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|solutionrelative:bankapp.entity\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.entity\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|solutionrelative:bankapp.entity\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dto\\withdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|solutionrelative:bankapp.dto\\withdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|solutionrelative:bankapp.dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.entity\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|solutionrelative:bankapp.entity\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|solutionrelative:bankapp.dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\migrations\\bankappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\migrations\\bankappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.entity\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|solutionrelative:bankapp.entity\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EFFD68-B80D-4D1C-918C-869F42387006}|bankApp.API\\bankApp.API.csproj|solutionrelative:bankapp.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.entity\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A096E2-423B-493F-BB08-140A09442F6D}|bankApp.Entity\\bankApp.Entity.csproj|solutionrelative:bankapp.entity\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|solutionrelative:bankapp.dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dto\\depositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95149A-0CA2-4509-98BA-1867AEF8D5D4}|bankApp.DTO\\bankApp.DTO.csproj|solutionrelative:bankapp.dto\\depositrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\context\\datacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\context\\datacontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\concrete\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\concrete\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\concrete\\bankaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\concrete\\bankaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.dataaccess\\abstract\\ibankaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A15475-9663-48F7-9EF7-0249DDB69813}|bankApp.DataAccess\\bankApp.DataAccess.csproj|solutionrelative:bankapp.dataaccess\\abstract\\ibankaccountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|solutionrelative:bankapp.business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|solutionrelative:bankapp.business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.business\\concrete\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|solutionrelative:bankapp.business\\concrete\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.business\\concrete\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|solutionrelative:bankapp.business\\concrete\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|c:\\users\\hudanur\\desktop\\bank application\\backend\\bankapplication\\bankapp.business\\concrete\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96C550C-5DF9-4E3E-9673-9ED16034C26F}|bankApp.Business\\bankApp.Business.csproj|solutionrelative:bankapp.business\\concrete\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1544493765:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bankApp.API.http",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\bankApp.API.http",
+              "RelativeDocumentMoniker": "bankApp.API\\bankApp.API.http",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\bankApp.API.http",
+              "RelativeToolTip": "bankApp.API\\bankApp.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-03T14:16:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "bankApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "bankApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T14:16:25.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "bankApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\appsettings.json",
+              "RelativeToolTip": "bankApp.API\\appsettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T14:12:51.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bankApp.WebUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.WebUI\\bankApp.WebUI.csproj",
+              "RelativeDocumentMoniker": "bankApp.WebUI\\bankApp.WebUI.csproj",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.WebUI\\bankApp.WebUI.csproj",
+              "RelativeToolTip": "bankApp.WebUI\\bankApp.WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T10:18:12.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "bankApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Program.cs",
+              "RelativeToolTip": "bankApp.API\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwCUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:41:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "bankApp.Entity\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\User.cs",
+              "RelativeToolTip": "bankApp.Entity\\Entities\\User.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:33:11.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\TransactionType.cs",
+              "RelativeDocumentMoniker": "bankApp.Entity\\Entities\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\TransactionType.cs",
+              "RelativeToolTip": "bankApp.Entity\\Entities\\TransactionType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:38:43.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WithdrawRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\WithdrawRequest.cs",
+              "RelativeDocumentMoniker": "bankApp.DTO\\WithdrawRequest.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\WithdrawRequest.cs",
+              "RelativeToolTip": "bankApp.DTO\\WithdrawRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:38:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "bankApp.DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\RegisterDto.cs",
+              "RelativeToolTip": "bankApp.DTO\\RegisterDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:38:01.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\BankAccount.cs",
+              "RelativeDocumentMoniker": "bankApp.Entity\\Entities\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\BankAccount.cs",
+              "RelativeToolTip": "bankApp.Entity\\Entities\\BankAccount.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:28:29.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "bankApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "bankApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAQwJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:25:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "bankApp.DTO\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\TransactionDto.cs",
+              "RelativeToolTip": "bankApp.DTO\\TransactionDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:45:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "bankApp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "bankApp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:23:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BankAppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Migrations\\BankAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Migrations\\BankAppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Migrations\\BankAppContextModelSnapshot.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Migrations\\BankAppContextModelSnapshot.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:15:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "bankApp.Entity\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\Transaction.cs",
+              "RelativeToolTip": "bankApp.Entity\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:08:24.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "bankApp.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "bankApp.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAUwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:03:37.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "bankApp.API\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "bankApp.API\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAAGgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:03:14.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\Password.cs",
+              "RelativeDocumentMoniker": "bankApp.Entity\\Entities\\Password.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Entity\\Entities\\Password.cs",
+              "RelativeToolTip": "bankApp.Entity\\Entities\\Password.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:35:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "bankApp.DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\LoginDto.cs",
+              "RelativeToolTip": "bankApp.DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:35:23.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepositRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\DepositRequest.cs",
+              "RelativeDocumentMoniker": "bankApp.DTO\\DepositRequest.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DTO\\DepositRequest.cs",
+              "RelativeToolTip": "bankApp.DTO\\DepositRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:35:22.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Context\\DataContextFactory.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Context\\DataContextFactory.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Context\\DataContextFactory.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Context\\DataContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:26:30.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Context\\BankAppContext.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Context\\BankAppContext.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Context\\BankAppContext.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Context\\BankAppContext.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADkAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:26:25.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EfUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Concrete\\EfUserDal.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Concrete\\EfUserDal.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Concrete\\EfUserDal.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Concrete\\EfUserDal.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:26:21.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BankAccountDal.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Concrete\\BankAccountDal.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Concrete\\BankAccountDal.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Concrete\\BankAccountDal.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Concrete\\BankAccountDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:26:19.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Abstract\\IUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:25:33.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBankAccountDal.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Abstract\\IBankAccountDal.cs",
+              "RelativeDocumentMoniker": "bankApp.DataAccess\\Abstract\\IBankAccountDal.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.DataAccess\\Abstract\\IBankAccountDal.cs",
+              "RelativeToolTip": "bankApp.DataAccess\\Abstract\\IBankAccountDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:23:50.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "bankApp.Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "bankApp.Business\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:13:08.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "bankApp.Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "bankApp.Business\\Concrete\\UserManager.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwFQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:12:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\TransactionService.cs",
+              "RelativeDocumentMoniker": "bankApp.Business\\Concrete\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\TransactionService.cs",
+              "RelativeToolTip": "bankApp.Business\\Concrete\\TransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:09:52.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\JwtService.cs",
+              "RelativeDocumentMoniker": "bankApp.Business\\Concrete\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\JwtService.cs",
+              "RelativeToolTip": "bankApp.Business\\Concrete\\JwtService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:04:48.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BankAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\BankAccountService.cs",
+              "RelativeDocumentMoniker": "bankApp.Business\\Concrete\\BankAccountService.cs",
+              "ToolTip": "C:\\Users\\Hudanur\\Desktop\\bank application\\backend\\BankApplication\\bankApp.Business\\Concrete\\BankAccountService.cs",
+              "RelativeToolTip": "bankApp.Business\\Concrete\\BankAccountService.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAQwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:04:36.397Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

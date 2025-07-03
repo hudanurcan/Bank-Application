@@ -1,0 +1,4 @@
+# backend klasörüne özel
+/obj/
+/bin/
+/.vs/

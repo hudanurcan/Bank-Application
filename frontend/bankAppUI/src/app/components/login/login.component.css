@@ -1,0 +1,70 @@
+.container {
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/purpl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form-container {
+    width: 20%;
+    /* height: 50%; */
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.form-container h1 {
+    font-size: 24px;
+    margin-bottom: 2%;
+    color: #000;
+}
+
+.form-container input {
+    padding: 4%;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    /* width: 96%; */
+    margin: 0;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-container input:focus {
+    border-color: #612477;
+    outline: none;
+    box-shadow: 0 0 5px #b387c3(243, 156, 18, 0.6);
+}
+
+.buton {
+    border: none;
+    padding: 4%;
+    font-size: 1rem;
+    background-color: #812f9f;
+    color: #fff;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-top: 10%;
+}
+
+.buton:hover {
+    cursor: pointer;
+    background-color: #612477;
+    /* transform: scale(1.05); */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    margin: 0; 
+    margin-left: 2%;
+    text-align: left; 
+}

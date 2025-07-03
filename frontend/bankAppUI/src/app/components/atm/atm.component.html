@@ -1,0 +1,17 @@
+
+<div class="container">
+
+    <h1> Hoş Geldiniz, {{ userName }} {{userSurname}} </h1>  
+    <h3> Güncel Bakiye: {{ balance | currency }} </h3>  
+
+    <div class="buttons"> 
+        <a [routerLink]="['/withdraw']"> PARA ÇEKME </a>
+        <!-- <a routerLink="/login" > HESABA GİRİŞ </a>
+        <a routerLink="/login"> ONLINE ATM </a> -->
+        
+        <a routerLink="/deposit">PARA YATIRMA</a>
+        <a routerLink="/homepage">ÇIKIŞ</a>
+
+    </div>
+
+</div>

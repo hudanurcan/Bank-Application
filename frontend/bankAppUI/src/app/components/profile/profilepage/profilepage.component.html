@@ -1,0 +1,37 @@
+
+<div class="modal" *ngIf="isModalVisible">
+  <div class="modal-content">
+    <h2>Hesabınızı kapatmak istediğinizden emin misiniz?</h2>
+    <div class="modal-actions">
+      <button (click)="confirmDeactivateAccount()" class="btn btn-confirm">Evet</button>
+      <button (click)="closeModal()" class="btn btn-cancel">Hayır</button>
+    </div>
+  </div>
+</div>
+<!-- <app-toast *ngIf="toastVisible" [message]="toastMessage"></app-toast> -->
+<app-toast *ngIf="toastVisible" 
+           [message]="toastMessage" 
+           [show]="toastVisible" 
+           [type]="toastType" 
+           [toastClass]="toastClass"></app-toast>
+<app-sidebar></app-sidebar>
+
+<div class="container">
+    <h1>Hoşgeldiniz, {{ userProfile?.name }} {{ userProfile?.surname }}</h1>
+  
+    <div class="profile-info">
+      <p><strong>İsim:</strong> {{ userProfile?.name }}</p>
+      <p><strong>Soyisim:</strong> {{ userProfile?.surname }}</p>
+      <p><strong>T.C. Kimlik No:</strong> {{ userProfile?.tc }}</p>
+      <p><strong>Doğum Tarihi:</strong> {{ userProfile?.birthday | date: 'dd/MM/yyyy' }}</p>
+      <p><strong>Telefon:</strong> {{ userProfile?.phone }}</p>
+      <p><strong>E-posta:</strong> {{ userProfile?.email }}</p>
+      <p><strong>Adres:</strong> {{ userProfile?.address }}</p>
+    </div>
+
+    <!-- <button (click)="deactivateAccount()" class="close-account-button">Hesabı Kapat</button> -->
+    <!-- <button (click)="confirmDeactivateAccount()" class="close-account-button">Hesabı Kapat</button> -->
+    <button (click)="openModal()" class="close-account-button">Hesabı Sil</button>
+
+
+</div>

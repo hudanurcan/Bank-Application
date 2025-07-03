@@ -1,0 +1,42 @@
+<app-sidebar></app-sidebar>
+
+<div class="container">
+  <div *ngIf="loading">Yükleniyor...</div>
+
+  <div *ngIf="!loading && userTransactions.length === 0">
+    <p>İşlem geçmişi bulunamadı.</p>
+  </div>
+
+  <div *ngIf="!loading && userTransactions.length > 0">
+    <h2>Hesap Hareketlerim</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Gönderici</th>
+          <th>Alıcı</th>
+          <th>Tutar</th>
+          <th>Açıklama</th>
+          <th>İşlem Tarihi</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let transaction of pagedTransactions">
+          <td>{{ transaction.senderName }}</td>
+          <td>{{ transaction.receiverName }}</td>
+          <td [ngStyle]="{ color: transaction.transactionType === 2 || transaction.transactionType === 4 ? 'green' : 'red' }">
+            {{ transaction.transactionType === 2 || transaction.transactionType === 4 ? '+' : '-' }}{{ transaction.amount }}
+          </td>
+          <td>{{ transaction.description }}</td>
+          <td>{{ transaction.dateOfTransaction | date: 'dd.MM.yyyy HH:mm' }}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- Sayfalama Butonları -->
+    <div class="pagination">
+      <button (click)="changePage(currentPage - 1)" [disabled]="currentPage === 1">Önceki</button>
+      <span>{{ currentPage }} / {{ totalPages }}</span>
+      <button (click)="changePage(currentPage + 1)" [disabled]="currentPage === totalPages">Sonraki</button>
+    </div>
+  </div>
+</div>

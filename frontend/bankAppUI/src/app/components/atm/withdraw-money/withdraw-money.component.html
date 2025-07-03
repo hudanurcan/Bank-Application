@@ -1,0 +1,22 @@
+
+   <div class="container">
+    <div class="atm-screen">
+      <p class="balance-text">Bakiyeniz: <span>{{ balance }} TL</span></p>
+      <p class="input-label">Çekmek istediğiniz tutarı giriniz:</p>
+      <input type="number" [(ngModel)]="withdrawAmount" placeholder="Çekilecek tutar">
+  
+      <div class="atm-keypad">
+        <button class="btn" (click)="setAmount(100)">100</button>
+        <button class="btn" (click)="setAmount(200)">200</button>
+        <button class="btn" (click)="setAmount(500)">500</button>
+        <button class="btn" (click)="setAmount(1000)">1000</button>
+      </div>
+  
+      <button class="withdraw-btn" (click)="withdraw()">Para Çek</button>
+  
+      <div *ngIf="showAlert" class="alert-box">
+        <p>{{ alertMessage }}</p>
+      </div>
+    </div>
+  </div>
+  

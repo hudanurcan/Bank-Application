@@ -1,0 +1,13 @@
+<app-sidebar></app-sidebar>
+
+<div class="container">
+  <div class="card-container">
+    <div *ngFor="let card of cards" class="card">
+      <h3>{{ userName }} {{ userSurname }}</h3> 
+      <p> {{ formatCardNumber(card.cardNumber) }}</p> 
+      <p>SKT: {{ formattedExpiryDate }}</p> 
+      <p>{{ card.iban }}</p> 
+    </div>
+  </div>
+</div>
+

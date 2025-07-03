@@ -1,0 +1,67 @@
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.deps.json
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp..C1532FB8.Up2Date
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\refint\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\ref\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.deps.json
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.runtimeconfig.json
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp..C1532FB8.Up2Date
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\refint\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\ref\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.deps.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.runtimeconfig.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.sourcelink.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp..C1532FB8.Up2Date
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\refint\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\ref\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.deps.json
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.runtimeconfig.json
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp..C1532FB8.Up2Date
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\refint\bankApp.DataAccess.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\bankApp.DataAccess.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DataAccess\obj\Debug\net8.0\ref\bankApp.DataAccess.dll

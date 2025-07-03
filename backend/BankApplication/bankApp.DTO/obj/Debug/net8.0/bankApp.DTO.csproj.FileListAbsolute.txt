@@ -1,0 +1,67 @@
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.deps.json
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp..DC4D876A.Up2Date
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\refint\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\ref\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.deps.json
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.runtimeconfig.json
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp..DC4D876A.Up2Date
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\refint\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\ref\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.deps.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.runtimeconfig.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.sourcelink.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp..DC4D876A.Up2Date
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\refint\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\ref\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.deps.json
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.runtimeconfig.json
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp..DC4D876A.Up2Date
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\refint\bankApp.DTO.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\bankApp.DTO.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.DTO\obj\Debug\net8.0\ref\bankApp.DTO.dll

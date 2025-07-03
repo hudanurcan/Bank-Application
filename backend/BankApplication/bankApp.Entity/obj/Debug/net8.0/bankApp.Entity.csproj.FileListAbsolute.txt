@@ -1,0 +1,57 @@
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.deps.json
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.runtimeconfig.json
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\refint\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\ref\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.deps.json
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.runtimeconfig.json
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\refint\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\github\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\ref\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.deps.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.runtimeconfig.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.sourcelink.json
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\refint\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\bank application\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\ref\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.deps.json
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.runtimeconfig.json
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\bin\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.AssemblyInfo.cs
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\refint\bankApp.Entity.dll
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.pdb
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\bankApp.Entity.genruntimeconfig.cache
+C:\Users\Hudanur\Desktop\github 2\backend\BankApplication\bankApp.Entity\obj\Debug\net8.0\ref\bankApp.Entity.dll

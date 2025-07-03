@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bankApp.API",
+    "\\bankApp.API\\Properties",
+    "\\bankApp.Business",
+    "\\bankApp.Business\\Concrete",
+    "\\bankApp.DataAccess",
+    "\\bankApp.DataAccess\\Concrete",
+    "\\bankApp.DataAccess\\Context",
+    "\\bankApp.DataAccess\\Migrations",
+    "\\bankApp.Entity",
+    "\\bankApp.Entity\\Entities"
+  ],
+  "SelectedNode": "\\BankApplication.sln",
+  "PreviewInSolutionExplorer": false
+}

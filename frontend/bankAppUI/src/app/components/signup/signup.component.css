@@ -1,0 +1,125 @@
+.container {
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/purpl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .form-container {
+    width: 30%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .form-container h1 {
+    font-size: 24px;
+    margin-bottom: 0px;
+    color: #000;
+  }
+  
+  .input-group {
+    position: relative;
+    width: 100%;
+  }
+  
+  .form-container input {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 96%;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+  
+.form-container input:focus {
+    border-color: #612477;
+    outline: none;
+    box-shadow: 0 0 5px #b387c3;
+  }
+  
+  .input-error {
+    position: absolute;
+    top: 0;
+    right: -180px;
+    width: 200px;
+    font-size: 12px;
+    color: red;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #f8d7da;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .input-error small {
+    font-size: 12px;
+  }
+  
+  button {
+    background-color: #612477;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: not-allowed;  
+    opacity: 0.5;  
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button.active {
+    cursor: pointer;
+    opacity: 1;  
+  }
+  
+  button.active:hover {
+    background-color: #612477; 
+  }
+  
+  button:disabled:hover {
+    background-color: #6c5175; 
+  }
+  .error-message {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  /* .input-group {
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+    display: flex;  
+    justify-content: flex-start; 
+    align-items: center; 
+  } */
+  
+  .input-group label {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-group input[type="checkbox"] {
+    padding: 0;
+    width: 5%;
+  }
+  
+  .input-group a {
+    color: #007bff; /* Link rengini belirleyelim */
+    text-decoration: underline;
+    margin-left: 5px; /* Link ile metin arasına boşluk bırakıyoruz */
+  }
+  
+  .input-group a:hover {
+    color: #0056b3; /* Linkin üzerine gelindiğinde renk değiştirir */
+  }

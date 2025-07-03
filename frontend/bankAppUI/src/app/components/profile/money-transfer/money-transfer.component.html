@@ -1,0 +1,26 @@
+<app-sidebar></app-sidebar>
+<!-- <app-toast [message]="toastMessage" [show]="showToast"></app-toast> -->
+<app-toast 
+  [message]="toastMessage" 
+  [show]="showToast" 
+  [type]="toastType">
+</app-toast>
+
+<div class="container">
+    <h2>Para Transferi</h2>
+    <div *ngIf="currentBalance !== null" class="bakiye-info">
+      <p>Güncel Bakiyeniz: ₺{{ currentBalance }}</p>
+    </div>
+    <form (ngSubmit)="onSubmit()">
+        <label for="receiverIban">Alıcı IBAN:</label>
+        <input type="text" id="receiverIban" [(ngModel)]="receiverIban" name="receiverIban" required>
+      
+        <label for="amount">Tutar (₺):</label>
+        <input type="number" id="amount" [(ngModel)]="amount" name="amount" required>
+      
+        <label for="description">Açıklama (Opsiyonel):</label>
+        <textarea id="description" [(ngModel)]="description" name="description"></textarea>
+      
+        <button type="submit">Gönder</button>
+      </form>
+</div>

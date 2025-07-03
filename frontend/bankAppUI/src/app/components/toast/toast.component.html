@@ -1,0 +1,7 @@
+<!-- <div *ngIf="show" class="toast">
+    <span>{{ message }}</span>
+  </div> -->
+  <div *ngIf="show" [ngClass]="{'toast-success': type === 'success', 'toast-error': type === 'error'}" class="toast">
+    <span>{{ message }}</span>
+  </div>
+  

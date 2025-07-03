@@ -1,0 +1,105 @@
+<div class="container">
+  <form [formGroup]="signupform" (ngSubmit)="onSubmit()" class="form-container">
+    <h1> Banka Uygulamasına Hoş Geldiniz</h1>
+
+    <!-- Ad Alanı -->
+    <div class="input-group">
+      <input type="text" id="name" formControlName="name" [(ngModel)]="user.name" placeholder="Adınızı giriniz" required  />
+      <div class="input-error" *ngIf="signupform.get('name')?.invalid && signupform.get('name')?.touched">
+        <small>Ad gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- Soyad Alanı -->
+    <div class="input-group">
+      <input type="text" id="surname" formControlName="surname" [(ngModel)]="user.surname" placeholder="Soyadınızı giriniz" required />
+      <div class="input-error" *ngIf="signupform.get('surname')?.invalid && signupform.get('surname')?.touched">
+        <small>Soyad gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- T.C Kimlik Alanı -->
+    <div class="input-group">
+      <input type="text" id="tc" formControlName="tc" [(ngModel)]="user.tc" placeholder="T.C kimlik numaranızı giriniz" required maxlength="11" />
+      <div class="input-error" *ngIf="signupform.get('tc')?.invalid && signupform.get('tc')?.touched">
+        <small>T.C kimlik numarası gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- Doğum Tarihi Alanı -->
+    <div class="input-group">
+      <input type="date" id="birthday" formControlName="birthday" [(ngModel)]="user.birthday" placeholder="Doğum tarihinizi giriniz" required />
+      <div class="input-error" *ngIf="signupform.get('birthday')?.invalid && signupform.get('birthday')?.touched">
+        <small>Doğum tarihi gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- Telefon Numarası Alanı -->
+    <div class="input-group">
+      <input type="text" id="phone" formControlName="phone" [(ngModel)]="user.phone" placeholder="Telefon numaranızı giriniz. (0 olmadan giriniz)" required maxlength="10" />
+      <div class="input-error" *ngIf="signupform.get('phone')?.invalid && signupform.get('phone')?.touched">
+        <small>Telefon numarası gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- E-posta Alanı -->
+    <div class="input-group">
+      <input type="email" id="email" formControlName="email" [(ngModel)]="user.email" placeholder="E-posta adresinizi giriniz" required />
+      <div class="input-error" *ngIf="signupform.get('email')?.invalid && signupform.get('email')?.touched">
+        <small>E-posta adresi gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- Adres Alanı -->
+    <div class="input-group">
+      <input id="address" formControlName="address" [(ngModel)]="user.address" placeholder="Adresinizi giriniz" required />
+      <div class="input-error" *ngIf="signupform.get('address')?.invalid && signupform.get('address')?.touched">
+        <small>Adres gereklidir.</small>
+      </div>
+    </div>
+
+    <!-- Şifre Alanı -->
+    <div class="input-group">
+      <input type="password" id="password" formControlName="password" [(ngModel)]="user.password" placeholder="Şifrenizi oluşturunuz" required />
+      <div class="input-error" *ngIf="signupform.get('password')?.invalid && signupform.get('password')?.touched">
+        <small *ngIf="signupform.get('password')?.hasError('required')">Şifre gereklidir.</small>
+        <small *ngIf="signupform.get('password')?.hasError('minlength')">Şifre en az 8 karakter olmalıdır.</small>
+        <small *ngIf="signupform.get('password')?.hasError('pattern')">Şifre en az bir büyük harf, bir küçük harf, bir rakam ve bir özel karakter içermelidir.</small>
+      </div>
+    </div>
+
+    <!-- Şifreyi Onaylama Alanı -->
+    <div class="input-group">
+      <input type="password" id="confirmPassword" formControlName="confirmPassword" [(ngModel)]="user.confirmPassword" placeholder="Şifrenizi onaylayın" required />
+      <div class="input-error" *ngIf="signupform.get('confirmPassword')?.invalid && signupform.get('confirmPassword')?.touched">
+        <small *ngIf="signupform.get('confirmPassword')?.hasError('required')">Şifreyi onaylamak gereklidir.</small>
+        <small *ngIf="signupform.get('password')?.value !== signupform.get('confirmPassword')?.value">Şifreler eşleşmiyor!</small>
+      </div>
+    </div>
+
+        <!-- KVKK Onay Kutusu -->
+        <!-- <div class="input-group">
+          <label>
+            <input type="checkbox" [(ngModel)]="isKvkkAccepted" name="kvkkAccepted" required /> 
+            <span>KVKK metnini okudum ve kabul ediyorum.</span>
+            <a href="https://vbassets.vakifbank.com.tr/bankamiz/kvkk-arsiv/kvkk-aydinlatma-metni-28.05.2019-tarihli-versiyon.pdf" target="_blank">KVKK Metni</a>
+          </label>
+        </div> -->
+        <div class="input-group">
+          <label>
+            <input type="checkbox" [(ngModel)]="isKvkkAccepted" name="kvkkAccepted" [ngModelOptions]="{standalone: true}" required /> 
+            <!-- <span>KVKK metnini okudum ve kabul ediyorum.</span> -->
+           <span><a href="https://vbassets.vakifbank.com.tr/bankamiz/kvkk-arsiv/kvkk-aydinlatma-metni-28.05.2019-tarihli-versiyon.pdf" target="_blank">KVKK Metnini</a> okudum ve kabul ediyorum </span> 
+          </label>
+        </div>
+        
+
+    <!-- <button type="submit" [ngClass]="{ 'active': signupform.valid }" [disabled]="signupform.invalid">Başvur</button> -->
+    <button type="submit" [ngClass]="{ 'active': signupform.valid && isKvkkAccepted }" [disabled]="signupform.invalid || !isKvkkAccepted">Başvur</button>
+
+    <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+  </form>
+  <app-toast [message]="toastMessage" [show]="toastVisible"></app-toast>
+
+</div>
+

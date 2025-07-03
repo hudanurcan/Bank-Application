@@ -1,0 +1,17 @@
+
+<div class="container">
+
+    <h1> Banka Uygulamasına Hoş Geldiniz </h1>
+
+
+    <div class="buttons"> 
+        <a routerLink="/signup"> HESAP BAŞVURU </a>
+        <!-- <a routerLink="/login" > HESABA GİRİŞ </a>
+        <a routerLink="/login"> ONLINE ATM </a> -->
+        
+        <a [routerLink]="['/login', { type: 'bank' }]">HESABA GİRİŞ</a>
+        <a [routerLink]="['/login', { type: 'atm' }]">ONLINE ATM</a>
+
+    </div>
+
+</div>

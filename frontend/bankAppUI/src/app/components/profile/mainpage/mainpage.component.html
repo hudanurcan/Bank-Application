@@ -1,0 +1,60 @@
+<app-sidebar> </app-sidebar>
+
+<div class="container"> 
+   
+    <div class="header">
+        <h1>Hoş Geldiniz, {{ userName }} {{ userSurname }}</h1>
+    </div>
+
+ 
+    <div class="time-container">
+        <h2> {{ currentTime }}</h2>
+    </div>
+
+  
+    <div class="main-content">
+        <!-- Üst Kısım: Bakiye ve Döviz Kurları -->
+        <div class="top-section">
+            <div class="balance">
+                <h3>Bakiyeniz: {{ balance }} TL</h3>
+            </div>
+
+            <div class="exchange-rates">
+                <h3>USD/TRY: {{ usdToTry | number: '1.2-2' }} TL</h3>
+                <h3>EUR/TRY: {{ eurToTry | number: '1.2-2' }} TL</h3>
+            </div>
+        </div>
+
+        <!-- Alt Kısım: Kampanyalar -->
+        <div class="bottom-section">
+            <!-- Yaz Tatili Kredisi Kampanyası -->
+            <div class="campaign-box">
+              <h2>Yaz Tatili İçin Özel Kredili Tatil Kampanyası</h2>
+              <p>
+                  Tatilinizi rahatça planlayın! Özel kredi faiz oranlarıyla hayalinizdeki tatili şimdi gerçekleştirebilirsiniz.
+              </p>
+              <ul>
+                  <li><strong>%12 faiz oranı</strong> ile 6 aya kadar taksitli yaz tatili kredisi.</li>
+                  <li>2.000 TL'ye kadar hediye çeki.</li>
+                  <li>Üstelik, kredi onayınız hemen verilir!</li>
+              </ul>
+              <p>Yaz tatili için ihtiyacınız olan krediyi kolayca alın. Katılın, fırsatlar sizi bekliyor!</p>
+              <button class="join-button">Başvur</button>
+          </div>
+
+          <div class="campaign-box">
+              <h2>Ev Sahibi Olmak İçin Düşük Faizli Konut Kredisi</h2>
+              <p>
+                  Ev alma hayali artık çok yakın! Düşük faiz oranlarıyla ev sahibi olma fırsatını kaçırmayın.
+              </p>
+              <ul>
+                  <li><strong>%10 faiz oranı</strong> ile kredi taksitlerinizi düşürün.</li>
+                  <li><strong>100.000 TL’ye kadar konut kredisi</strong>.</li>
+                  <li>Kredi başvurusu onayı hemen!</li>
+              </ul>
+              <p>Ev sahibi olmak hayal değil, hemen başvurun!</p>
+              <button class="join-button">Başvur</button>
+          </div>
+        </div>
+    </div>
+</div>
